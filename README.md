@@ -1,5 +1,3 @@
-# SimpleProgram
-someInteringCodes
 
 # 环境
 Linux Unix 系统
